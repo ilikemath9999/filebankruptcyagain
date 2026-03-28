@@ -1,0 +1,19 @@
+# filebankruptcyagain.com
+
+> Complete guide to filing bankruptcy again. Learn the waiting periods for every chapter combination, check your eligibility dates, and understand the rules for repeat bankruptcy filings.
+
+## About
+
+filebankruptcyagain.com provides a comprehensive guide to refiling bankruptcy after a prior case. The site covers waiting periods for every chapter-to-chapter combination (Chapter 7 to 7, Chapter 7 to 13, Chapter 13 to 7, Chapter 13 to 13), the difference between the filing bar under Section 109(g) and discharge bars under Sections 727(a)(8) and 1328(f), and practical guidance for calculating eligibility dates.
+
+## Key Pages
+
+- [Home](https://filebankruptcyagain.com/): Complete refiling guide -- waiting periods for every chapter combination, eligibility calculator, and refiling rules
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "filebankruptcyagain.com, Open Bankruptcy Project (2026)."
